@@ -17,7 +17,7 @@ my @variants = ( "Black", "White", "No" );
 
 chdir("$txtdir");
 
-if ( system( "./generate_text_files.sh" ) ) {
+if ( system("./generate_text_files.sh") ) {
     die "Cannot generate text files!\n";
 }
 
@@ -61,6 +61,12 @@ unless (
 unless ( open( IFL, $ifl . "Format_and_Description.txt" ) ) {
     die "Cannot open file " . $ifl
       . "Format_and_Description.txt for reading: $!\n";
+}
+
+if ( !-d $fmtdir ) {
+    unless ( mkdir($fmtdir) ) {
+        die "Cannot create directory " . $fmtdir . ": $!\n";
+    }
 }
 
 while (<IFL>) {
