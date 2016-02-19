@@ -17,6 +17,10 @@ my @variants = ( "Black", "White", "No" );
 
 chdir("$txtdir");
 
+if ( system( "./generate_text_files.sh" ) ) {
+    die "Cannot generate text files!\n";
+}
+
 if (
     system(
             "paste "
