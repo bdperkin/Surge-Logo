@@ -1,0 +1,157 @@
+AAI Dune image
+Adobe Illustrator CS2
+PFS: 1st Publisher Clip Art
+AVS X image
+Raw blue, green, and red samples
+Raw blue, green, red, and alpha samples
+Raw blue, green, red, and opacity samples
+Joint Bi-level Image experts Group interchange format (2.1)
+Microsoft Windows bitmap image
+Microsoft Windows bitmap image (V2)
+Microsoft Windows bitmap image (V3)
+BRF ASCII Braille format
+Continuous Acquisition and Life-cycle Support Type 1 Specified in MIL-R-28002 and MIL-PRF-28002
+Continuous Acquisition and Life-cycle Support Type 1 Specified in MIL-R-28002 and MIL-PRF-28002
+Cineon Image File
+Cisco IP phone image format
+Raw cyan, magenta, yellow, and black samples
+Raw cyan, magenta, yellow, black, and alpha samples
+Base64-encoded inline images
+ZSoft IBM PC multi-page Paintbrush
+Microsoft DirectDraw Surface
+SMPTE 268M-2003 (DPX 2.0) Digital Moving Picture Exchange Bitmap, Version 2.0.  See SMPTE 268M-2003 specification at http://www.smtpe.org 
+Microsoft DirectDraw Surface
+Microsoft DirectDraw Surface
+Encapsulated Portable Document Format
+Encapsulated PostScript Interchange format
+Encapsulated PostScript
+Level II Encapsulated PostScript
+Level III Encapsulated PostScript
+Encapsulated PostScript
+Encapsulated PostScript Interchange format
+Encapsulated PostScript with TIFF preview
+Encapsulated PostScript Level II with TIFF preview
+Encapsulated PostScript Level III with TIFF preview
+High Dynamic-range (HDR)
+Group 3 FAX FAX machines use non-square pixels which are 1.5 times wider than they are tall but computer displays use square pixels, therefore FAX images may appear to be narrow unless they are explicitly resized using a geometry of "150x100%".  
+Flexible Image Transport System
+Flexible Image Transport System
+Group 3 FAX
+CompuServe graphics interchange format
+CompuServe graphics interchange format (version 87a)
+Raw gray samples
+Raw CCITT Group4
+Image expressed as a 'C/C++' char array
+Radiance RGBE image format
+Histogram of the image
+Slow Scan TeleVision
+Hypertext Markup Language and a client-side image map
+Hypertext Markup Language and a client-side image map
+Truevision Targa image
+The image format and characteristics
+Base64-encoded inline images
+IPL Image Sequence
+ISO/TR 11548-1 format
+ISO/TR 11548-1 format 6dot
+JPEG-2000 Code Stream Syntax (2.1.0)
+JPEG-2000 Code Stream Syntax (2.1.0)
+Joint Bi-level Image experts Group interchange format (2.1)
+Joint Bi-level Image experts Group interchange format (2.1)
+JPEG Network Graphics See http://www.libpng.org/pub/mng/ for details about the JNG format.
+JPEG-2000 File Format Syntax (2.1.0)
+JPEG-2000 Code Stream Syntax (2.1.0)
+Joint Photographic Experts Group JFIF format (62)
+Joint Photographic Experts Group JFIF format (62)
+Joint Photographic Experts Group JFIF format (62)
+JPEG-2000 Code Stream Syntax (2.1.0)
+Joint Photographic Experts Group JFIF format (62)
+The image format and characteristics
+MPEG Video Stream
+Raw MPEG-4 Video
+Predefined Magick Image (LOGO, ROSE, etc.); output same as 'H'
+Colormap intensities and indices
+MATLAB level 5 image format
+MATTE format
+Magick Image File Format
+Multimedia Container
+Multiple-image Network Graphics (libpng 1.6.19) See http://www.libpng.org/pub/mng/ for details about the MNG format.
+Raw bi-level bitmap
+MPEG Video Stream
+MPEG-4 Video Stream
+Magick Persistent Cache image format
+MPEG Video Stream
+MPEG Video Stream
+ImageMagick's own SVG internal renderer
+MTV Raytracing image format
+Constant image of uniform color
+On-the-air bitmap
+16bit/pixel interleaved YUV
+Palm pixmap
+Common 2-dimensional bitmap format
+Portable bitmap format (black and white)
+Photo CD
+Photo CD
+Printer Control Language
+Apple Macintosh QuickDraw/PICT
+ZSoft IBM PC Paintbrush
+Palm Database ImageViewer Format
+Portable Document Format
+Portable Document Archive Format
+Portable float format
+Portable graymap format (gray scale)
+Personal Icon
+Apple Macintosh QuickDraw/PICT
+Joint Photographic Experts Group JFIF format (62)
+Portable Network Graphics (libpng 1.6.19) See http://www.libpng.org/ for details about the PNG format.
+PNG inheriting bit-depth, color-type from original if possible
+opaque or binary transparent 24-bit RGB (zlib 1.2.8)
+opaque or transparent 32-bit RGBA
+opaque or binary transparent 48-bit RGB
+opaque or transparent 64-bit RGBA
+8-bit indexed with optional binary transparency
+Portable anymap
+Portable pixmap format (color)
+Show a preview an image enhancement, effect, or f/x
+PostScript
+Level II PostScript
+Level III PostScript
+Adobe Large Document Format
+Adobe Photoshop bitmap
+Pyramid encoded TIFF
+SUN Rasterfile
+Raw red, green, and blue samples
+Raw red, green, blue, and alpha samples
+Raw red, green, blue, and opacity samples
+Irix RGB image
+Hypertext Markup Language and a client-side image map
+DEC SIXEL Graphics Format
+DEC SIXEL Graphics Format
+Sparse Color
+SUN Rasterfile
+Scalable Vector Graphics (RSVG 2.40.12)
+Compressed Scalable Vector Graphics (RSVG 2.40.12)
+Truevision Targa image
+Tagged Image File Format (LIBTIFF, Version 4.0.4)
+Tagged Image File Format (64-bit) (LIBTIFF, Version 4.0.4)
+Text
+Unicode Text format
+Unicode Text format 6dot
+X-Motif UIL table
+16bit/pixel interleaved YUV
+Truevision Targa image
+VICAR rasterfile format
+Visual Image Directory
+Khoros Visualization image
+VIPS image
+Truevision Targa image
+Wireless Bitmap (level 0) image
+WebP Image Format (libwebp 0.4.4[0203])
+Windows Media Video
+X Image
+X Windows system bitmap (black and white)
+X Windows system pixmap (color)
+Khoros Visualization image
+X Windows system window dump (color)
+Raw Y, Cb, and Cr samples
+Raw Y, Cb, Cr, and alpha samples
+CCIR 601 4:1:1 or 4:2:2
