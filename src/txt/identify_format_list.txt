@@ -1,3 +1,5 @@
+   Format  Module    Mode  Description
+-------------------------------------------------------------------------------
       3FR  DNG       r--   Hasselblad CFV/H3D39II
       AAI* AAI       rw+   AAI Dune image
        AI  PDF       rw-   Adobe Illustrator CS2
@@ -14,7 +16,9 @@
      BMP3* BMP       -w-   Microsoft Windows bitmap image (V3)
       BRF* BRAILLE   -w-   BRF ASCII Braille format
       CAL* CALS      rw-   Continuous Acquisition and Life-cycle Support Type 1
+           Specified in MIL-R-28002 and MIL-PRF-28002
      CALS* CALS      rw-   Continuous Acquisition and Life-cycle Support Type 1
+           Specified in MIL-R-28002 and MIL-PRF-28002
    CANVAS* XC        r--   Constant image uniform color
   CAPTION* CAPTION   r--   Caption
       CIN* CIN       rw-   Cineon Image File
@@ -28,6 +32,11 @@
       CUT* CUT       r--   DR Halo
      DATA* INLINE    rw+   Base64-encoded inline images
       DCM* DCM       r--   Digital Imaging and Communications in Medicine image
+           DICOM is used by the medical community for images like X-rays.  The
+           specification, "Digital Imaging and Communications in Medicine
+           (DICOM)", is available at http://medical.nema.org/.  In particular,
+           see part 5 which describes the image encoding (RLE, JPEG, JPEG-LS),
+           and supplement 61 which adds JPEG-2000 encoding.
       DCR  DNG       r--   Kodak Digital Camera Raw Image File
       DCX* PCX       rw+   ZSoft IBM PC multi-page Paintbrush
       DDS* DDS       rw+   Microsoft DirectDraw Surface
@@ -35,6 +44,9 @@
       DNG  DNG       r--   Digital Negative
       DOT  DOT       ---   Graphviz
       DPX* DPX       rw-   SMPTE 268M-2003 (DPX 2.0)
+           Digital Moving Picture Exchange Bitmap, Version 2.0.
+           See SMPTE 268M-2003 specification at http://www.smtpe.org
+           
      DXT1* DDS       rw+   Microsoft DirectDraw Surface
      DXT5* DDS       rw+   Microsoft DirectDraw Surface
      EPDF  PDF       rw-   Encapsulated Portable Document Format
@@ -50,6 +62,11 @@
       ERF  DNG       r--   Epson Raw Format
       EXR  EXR       rw-   High Dynamic-range (HDR)
       FAX* FAX       rw+   Group 3 FAX
+           FAX machines use non-square pixels which are 1.5 times wider than
+           they are tall but computer displays use square pixels, therefore
+           FAX images may appear to be narrow unless they are explicitly
+           resized using a geometry of "150x100%".
+           
      FITS* FITS      rw-   Flexible Image Transport System
   FRACTAL* PLASMA    r--   Plasma fractal image
       FTS* FITS      rw-   Flexible Image Transport System
@@ -81,6 +98,8 @@ HISTOGRAM* HISTOGRAM -w-   Histogram of the image
       JBG* JBIG      rw+   Joint Bi-level Image experts Group interchange format (2.1)
      JBIG* JBIG      rw+   Joint Bi-level Image experts Group interchange format (2.1)
       JNG* PNG       rw-   JPEG Network Graphics
+           See http://www.libpng.org/pub/mng/ for details about the JNG
+           format.
       JNX* JNX       r--   Garmin tile format
       JP2* JP2       rw-   JPEG-2000 File Format Syntax (2.1.0)
       JPC* JP2       rw-   JPEG-2000 Code Stream Syntax (2.1.0)
@@ -106,6 +125,8 @@ HISTOGRAM* HISTOGRAM -w-   Histogram of the image
      MIFF* MIFF      rw+   Magick Image File Format
       MKV  MPEG      rw+   Multimedia Container
       MNG* PNG       rw+   Multiple-image Network Graphics (libpng 1.6.19)
+           See http://www.libpng.org/pub/mng/ for details about the MNG
+           format.
      MONO* MONO      rw-   Raw bi-level bitmap
       MOV  MPEG      rw+   MPEG Video Stream
       MP4  MPEG      rw+   MPEG-4 Video Stream
@@ -149,6 +170,7 @@ HISTOGRAM* HISTOGRAM -w-   Histogram of the image
     PJPEG* JPEG      rw-   Joint Photographic Experts Group JFIF format (62)
    PLASMA* PLASMA    r--   Plasma fractal image
       PNG* PNG       rw-   Portable Network Graphics (libpng 1.6.19)
+           See http://www.libpng.org/ for details about the PNG format.
     PNG00* PNG       rw-   PNG inheriting bit-depth, color-type from original if possible
     PNG24* PNG       rw-   opaque or binary transparent 24-bit RGB (zlib 1.2.8)
     PNG32* PNG       rw-   opaque or transparent 32-bit RGBA
@@ -229,3 +251,8 @@ THUMBNAIL* THUMBNAIL -w+   EXIF Profile Thumbnail
     YCbCr* YCbCr     rw+   Raw Y, Cb, and Cr samples
    YCbCrA* YCbCr     rw+   Raw Y, Cb, Cr, and alpha samples
       YUV* YUV       rw-   CCIR 601 4:1:1 or 4:2:2
+
+* native blob support
+r read support
+w write support
++ support for multiple images

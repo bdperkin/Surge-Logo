@@ -1,0 +1,231 @@
+Hasselblad CFV/H3D39II
+AAI Dune image
+Adobe Illustrator CS2
+PFS: 1st Publisher Clip Art
+Sony Alpha Raw Image Format
+Microsoft Audio/Visual Interleaved
+AVS X image
+Raw blue, green, and red samples
+Raw blue, green, red, and alpha samples
+Raw blue, green, red, and opacity samples
+Joint Bi-level Image experts Group interchange format (2.1)
+Microsoft Windows bitmap image
+Microsoft Windows bitmap image (V2)
+Microsoft Windows bitmap image (V3)
+BRF ASCII Braille format
+Continuous Acquisition and Life-cycle Support Type 1
+Continuous Acquisition and Life-cycle Support Type 1
+Constant image uniform color
+Caption
+Cineon Image File
+Cisco IP phone image format
+Image Clip Mask
+Raw cyan, magenta, yellow, and black samples
+Raw cyan, magenta, yellow, black, and alpha samples
+Canon Digital Camera Raw Image Format
+Canon Digital Camera Raw Image Format
+Microsoft icon
+DR Halo
+Base64-encoded inline images
+Digital Imaging and Communications in Medicine image
+Kodak Digital Camera Raw Image File
+ZSoft IBM PC multi-page Paintbrush
+Microsoft DirectDraw Surface
+Multi-face font package (Freetype 2.6.0)
+Digital Negative
+Graphviz
+SMPTE 268M-2003 (DPX 2.0)
+Microsoft DirectDraw Surface
+Microsoft DirectDraw Surface
+Encapsulated Portable Document Format
+Encapsulated PostScript Interchange format
+Encapsulated PostScript
+Level II Encapsulated PostScript
+Level III Encapsulated PostScript
+Encapsulated PostScript
+Encapsulated PostScript Interchange format
+Encapsulated PostScript with TIFF preview
+Encapsulated PostScript Level II with TIFF preview
+Encapsulated PostScript Level III with TIFF preview
+Epson Raw Format
+High Dynamic-range (HDR)
+Group 3 FAX
+Flexible Image Transport System
+Plasma fractal image
+Flexible Image Transport System
+Group 3 FAX
+CompuServe graphics interchange format
+CompuServe graphics interchange format (version 87a)
+Gradual linear passing from one shade to another
+Raw gray samples
+Raw CCITT Group4
+Graphviz
+Image expressed as a 'C/C++' char array
+Identity Hald color lookup table image
+Radiance RGBE image format
+Histogram of the image
+Slow Scan TeleVision
+Hypertext Markup Language and a client-side image map
+Hypertext Markup Language and a client-side image map
+Truevision Targa image
+Microsoft icon
+Microsoft icon
+Phase One Raw Image Format
+The image format and characteristics
+Base64-encoded inline images
+IPL Image Sequence
+ISO/TR 11548-1 format
+ISO/TR 11548-1 format 6dot
+JPEG-2000 Code Stream Syntax (2.1.0)
+JPEG-2000 Code Stream Syntax (2.1.0)
+Joint Bi-level Image experts Group interchange format (2.1)
+Joint Bi-level Image experts Group interchange format (2.1)
+JPEG Network Graphics
+Garmin tile format
+JPEG-2000 File Format Syntax (2.1.0)
+JPEG-2000 Code Stream Syntax (2.1.0)
+Joint Photographic Experts Group JFIF format (62)
+Joint Photographic Experts Group JFIF format (62)
+Joint Photographic Experts Group JFIF format (62)
+JPEG-2000 Code Stream Syntax (2.1.0)
+Joint Photographic Experts Group JFIF format (62)
+JPEG-2000 File Format Syntax (2.1.0)
+The image format and characteristics
+Kodak Digital Camera Raw Image Format
+Kodak Digital Camera Raw Image Format
+Image label
+MPEG Video Stream
+Raw MPEG-4 Video
+MAC Paint
+Predefined Magick Image (LOGO, ROSE, etc.); output same as 'H'
+Colormap intensities and indices
+Image Clip Mask
+MATLAB level 5 image format
+MATTE format
+Mamiya Raw Image File
+Magick Image File Format
+Multimedia Container
+Multiple-image Network Graphics (libpng 1.6.19)
+Raw bi-level bitmap
+MPEG Video Stream
+MPEG-4 Video Stream
+Magick Persistent Cache image format
+MPEG Video Stream
+MPEG Video Stream
+Sony (Minolta) Raw Image File
+Magick Scripting Language
+ImageMagick's own SVG internal renderer
+MTV Raytracing image format
+Magick Vector Graphics
+Nikon Digital SLR Camera Raw Image File
+Nikon Digital SLR Camera Raw Image File
+Constant image of uniform color
+Olympus Digital Camera Raw Image File
+On-the-air bitmap
+Open Type font (Freetype 2.6.0)
+16bit/pixel interleaved YUV
+Palm pixmap
+Common 2-dimensional bitmap format
+Pango Markup Language (Pangocairo 1.38.1)
+Predefined pattern
+Portable bitmap format (black and white)
+Photo CD
+Photo CD
+Printer Control Language
+Apple Macintosh QuickDraw/PICT
+ZSoft IBM PC Paintbrush
+Palm Database ImageViewer Format
+Portable Document Format
+Portable Document Archive Format
+Pentax Electronic File
+Embrid Embroidery Format
+Postscript Type 1 font (ASCII) (Freetype 2.6.0)
+Postscript Type 1 font (binary) (Freetype 2.6.0)
+Portable float format
+Portable graymap format (gray scale)
+Personal Icon
+Apple Macintosh QuickDraw/PICT
+Alias/Wavefront RLE image format
+Joint Photographic Experts Group JFIF format (62)
+Plasma fractal image
+Portable Network Graphics (libpng 1.6.19)
+PNG inheriting bit-depth, color-type from original if possible
+opaque or binary transparent 24-bit RGB (zlib 1.2.8)
+opaque or transparent 32-bit RGBA
+opaque or binary transparent 48-bit RGB
+opaque or transparent 64-bit RGBA
+8-bit indexed with optional binary transparency
+Portable anymap
+Portable pixmap format (color)
+Show a preview an image enhancement, effect, or f/x
+PostScript
+Level II PostScript
+Level III PostScript
+Adobe Large Document Format
+Adobe Photoshop bitmap
+Pyramid encoded TIFF
+Seattle Film Works
+r--   Gradual radial passing from one shade to another
+Fuji CCD-RAW Graphic File
+SUN Rasterfile
+Raw
+Raw red, green, and blue samples
+Raw red, green, blue, and alpha samples
+Raw red, green, blue, and opacity samples
+LEGO Mindstorms EV3 Robot Graphic Format (black and white)
+Alias/Wavefront image
+Utah Run length encoded image
+Raw Media Format
+Panasonic Lumix Raw Image
+ZX-Spectrum SCREEN$
+Scitex HandShake
+Seattle Film Works
+Irix RGB image
+Hypertext Markup Language and a client-side image map
+DEC SIXEL Graphics Format
+DEC SIXEL Graphics Format
+Sparse Color
+Sony Raw Format 2
+Sony Raw Format
+Steganographic image
+SUN Rasterfile
+Scalable Vector Graphics (RSVG 2.40.12)
+Compressed Scalable Vector Graphics (RSVG 2.40.12)
+Text
+Truevision Targa image
+EXIF Profile Thumbnail
+Tagged Image File Format (LIBTIFF, Version 4.0.4)
+Tagged Image File Format (64-bit) (LIBTIFF, Version 4.0.4)
+Tile image with a texture
+PSX TIM
+TrueType font collection (Freetype 2.6.0)
+TrueType font (Freetype 2.6.0)
+Text
+Unicode Text format
+Unicode Text format 6dot
+X-Motif UIL table
+16bit/pixel interleaved YUV
+Truevision Targa image
+VICAR rasterfile format
+Visual Image Directory
+Khoros Visualization image
+VIPS image
+Truevision Targa image
+Wireless Bitmap (level 0) image
+WebP Image Format (libwebp 0.4.4[0203])
+Windows Meta File
+Windows Media Video
+Compressed Windows Meta File
+Word Perfect Graphics
+X Image
+Sigma Camera RAW Picture File
+X Windows system bitmap (black and white)
+Constant image uniform color
+GIMP image
+X Windows system pixmap (color)
+Microsoft XML Paper Specification
+Khoros Visualization image
+X Windows system window dump (color)
+Raw Y, Cb, and Cr samples
+Raw Y, Cb, Cr, and alpha samples
+CCIR 601 4:1:1 or 4:2:2

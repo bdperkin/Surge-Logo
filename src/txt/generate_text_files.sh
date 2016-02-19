@@ -1,5 +1,6 @@
 #! /bin/bash -x
 
+identify -list format | tee identify_format_list.txt
 grep ' [*,r,w,+,-][*,r,w,+,-][*,r,w,+,-]   ' identify_format_list.txt | tee identify_format_list_clean.txt
 awk '{print $1}' identify_format_list_clean.txt | tee identify_format_list_Format.txt
 awk '{print $2}' identify_format_list_clean.txt | tee identify_format_list_Module.txt
