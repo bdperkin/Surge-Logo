@@ -45,7 +45,6 @@ h	Image expressed as a 'C/C++' char array
 hdr	Radiance RGBE image format
 histogram	Histogram of the image
 hrz	Slow Scan TeleVision
-html	Hypertext Markup Language and a client-side image map
 icb	Truevision Targa image
 info	The image format and characteristics
 inline	Base64-encoded inline images
@@ -132,7 +131,6 @@ svgz	Compressed Scalable Vector Graphics (RSVG 2.40.12)
 tga	Truevision Targa image
 tiff	Tagged Image File Format (LIBTIFF, Version 4.0.4)
 tiff64	Tagged Image File Format (64-bit) (LIBTIFF, Version 4.0.4)
-txt	Text
 ubrl	Unicode Text format
 ubrl6	Unicode Text format 6dot
 uil	X-Motif UIL table
