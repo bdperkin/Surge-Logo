@@ -130,9 +130,7 @@ sparse-color	Sparse Color
 sun	SUN Rasterfile
 svg	Scalable Vector Graphics (RSVG 2.40.12)
 svgz	Compressed Scalable Vector Graphics (RSVG 2.40.12)
-text	Text
 tga	Truevision Targa image
-thumbnail	EXIF Profile Thumbnail
 tiff	Tagged Image File Format (LIBTIFF, Version 4.0.4)
 tiff64	Tagged Image File Format (64-bit) (LIBTIFF, Version 4.0.4)
 txt	Text
