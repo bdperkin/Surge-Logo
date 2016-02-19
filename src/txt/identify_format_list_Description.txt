@@ -46,7 +46,6 @@ Radiance RGBE image format
 Histogram of the image
 Slow Scan TeleVision
 Hypertext Markup Language and a client-side image map
-Hypertext Markup Language and a client-side image map
 Truevision Targa image
 The image format and characteristics
 Base64-encoded inline images

@@ -48,7 +48,6 @@ Raleigh Surge Logo
 * hdr -- Radiance RGBE image format
 * histogram -- Histogram of the image
 * hrz -- Slow Scan TeleVision
-* htm -- Hypertext Markup Language and a client-side image map
 * html -- Hypertext Markup Language and a client-side image map
 * icb -- Truevision Targa image
 * info -- The image format and characteristics

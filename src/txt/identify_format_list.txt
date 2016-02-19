@@ -47,7 +47,6 @@
       HDR* HDR       rw+   Radiance RGBE image format
 HISTOGRAM* HISTOGRAM -w-   Histogram of the image
       HRZ* HRZ       rw-   Slow Scan TeleVision
-      HTM* HTML      -w-   Hypertext Markup Language and a client-side image map
      HTML* HTML      -w-   Hypertext Markup Language and a client-side image map
       ICB* TGA       rw-   Truevision Targa image
      INFO  INFO      -w+   The image format and characteristics

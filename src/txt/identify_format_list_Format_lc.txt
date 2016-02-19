@@ -45,7 +45,6 @@ h
 hdr
 histogram
 hrz
-htm
 html
 icb
 info
