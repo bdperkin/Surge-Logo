@@ -1,159 +1,159 @@
 # Surge-Logo
 Raleigh Surge Logo
 
-| Format | Description |
-| -----: | :---------- |
-| aai | AAI Dune image |
-| ai | Adobe Illustrator CS2 |
-| art | PFS: 1st Publisher Clip Art |
-| avs | AVS X image |
-| bgr | Raw blue, green, and red samples |
-| bgra | Raw blue, green, red, and alpha samples |
-| bgro | Raw blue, green, red, and opacity samples |
-| bie | Joint Bi-level Image experts Group interchange format (2.1) |
-| bmp | Microsoft Windows bitmap image |
-| bmp2 | Microsoft Windows bitmap image (V2) |
-| bmp3 | Microsoft Windows bitmap image (V3) |
-| brf | BRF ASCII Braille format |
-| cal | Continuous Acquisition and Life-cycle Support Type 1 Specified in MIL-R-28002 and MIL-PRF-28002 |
-| cals | Continuous Acquisition and Life-cycle Support Type 1 Specified in MIL-R-28002 and MIL-PRF-28002 |
-| cin | Cineon Image File |
-| cip | Cisco IP phone image format |
-| cmyk | Raw cyan, magenta, yellow, and black samples |
-| cmyka | Raw cyan, magenta, yellow, black, and alpha samples |
-| data | Base64-encoded inline images |
-| dcx | ZSoft IBM PC multi-page Paintbrush |
-| dds | Microsoft DirectDraw Surface |
-| dpx | SMPTE 268M-2003 (DPX 2.0) Digital Moving Picture Exchange Bitmap, Version 2.0.  See SMPTE 268M-2003 specification at http://www.smtpe.org  |
-| dxt1 | Microsoft DirectDraw Surface |
-| dxt5 | Microsoft DirectDraw Surface |
-| epdf | Encapsulated Portable Document Format |
-| epi | Encapsulated PostScript Interchange format |
-| eps | Encapsulated PostScript |
-| eps2 | Level II Encapsulated PostScript |
-| eps3 | Level III Encapsulated PostScript |
-| epsf | Encapsulated PostScript |
-| epsi | Encapsulated PostScript Interchange format |
-| ept | Encapsulated PostScript with TIFF preview |
-| ept2 | Encapsulated PostScript Level II with TIFF preview |
-| ept3 | Encapsulated PostScript Level III with TIFF preview |
-| exr | High Dynamic-range (HDR) |
-| fax | Group 3 FAX FAX machines use non-square pixels which are 1.5 times wider than they are tall but computer displays use square pixels, therefore FAX images may appear to be narrow unless they are explicitly resized using a geometry of "150x100%".   |
-| fits | Flexible Image Transport System |
-| fts | Flexible Image Transport System |
-| g3 | Group 3 FAX |
-| gif | CompuServe graphics interchange format |
-| gif87 | CompuServe graphics interchange format (version 87a) |
-| gray | Raw gray samples |
-| group4 | Raw CCITT Group4 |
-| h | Image expressed as a 'C/C++' char array |
-| hdr | Radiance RGBE image format |
-| histogram | Histogram of the image |
-| hrz | Slow Scan TeleVision |
-| icb | Truevision Targa image |
-| info | The image format and characteristics |
-| inline | Base64-encoded inline images |
-| ipl | IPL Image Sequence |
-| isobrl | ISO/TR 11548-1 format |
-| isobrl6 | ISO/TR 11548-1 format 6dot |
-| j2c | JPEG-2000 Code Stream Syntax (2.1.0) |
-| j2k | JPEG-2000 Code Stream Syntax (2.1.0) |
-| jbg | Joint Bi-level Image experts Group interchange format (2.1) |
-| jbig | Joint Bi-level Image experts Group interchange format (2.1) |
-| jng | JPEG Network Graphics See http://www.libpng.org/pub/mng/ for details about the JNG format. |
-| jp2 | JPEG-2000 File Format Syntax (2.1.0) |
-| jpc | JPEG-2000 Code Stream Syntax (2.1.0) |
-| jpe | Joint Photographic Experts Group JFIF format (62) |
-| jpeg | Joint Photographic Experts Group JFIF format (62) |
-| jpg | Joint Photographic Experts Group JFIF format (62) |
-| jpm | JPEG-2000 Code Stream Syntax (2.1.0) |
-| jps | Joint Photographic Experts Group JFIF format (62) |
-| json | The image format and characteristics |
-| m2v | MPEG Video Stream |
-| m4v | Raw MPEG-4 Video |
-| magick | Predefined Magick Image (LOGO, ROSE, etc.); output same as 'H' |
-| map | Colormap intensities and indices |
-| mat | MATLAB level 5 image format |
-| matte | MATTE format |
-| miff | Magick Image File Format |
-| mkv | Multimedia Container |
-| mng | Multiple-image Network Graphics (libpng 1.6.19) See http://www.libpng.org/pub/mng/ for details about the MNG format. |
-| mono | Raw bi-level bitmap |
-| mov | MPEG Video Stream |
-| mp4 | MPEG-4 Video Stream |
-| mpc | Magick Persistent Cache image format |
-| mpeg | MPEG Video Stream |
-| mpg | MPEG Video Stream |
-| msvg | ImageMagick's own SVG internal renderer |
-| mtv | MTV Raytracing image format |
-| null | Constant image of uniform color |
-| otb | On-the-air bitmap |
-| pal | 16bit/pixel interleaved YUV |
-| palm | Palm pixmap |
-| pam | Common 2-dimensional bitmap format |
-| pbm | Portable bitmap format (black and white) |
-| pcd | Photo CD |
-| pcds | Photo CD |
-| pcl | Printer Control Language |
-| pct | Apple Macintosh QuickDraw/PICT |
-| pcx | ZSoft IBM PC Paintbrush |
-| pdb | Palm Database ImageViewer Format |
-| pdf | Portable Document Format |
-| pdfa | Portable Document Archive Format |
-| pfm | Portable float format |
-| pgm | Portable graymap format (gray scale) |
-| picon | Personal Icon |
-| pict | Apple Macintosh QuickDraw/PICT |
-| pjpeg | Joint Photographic Experts Group JFIF format (62) |
-| png | Portable Network Graphics (libpng 1.6.19) See http://www.libpng.org/ for details about the PNG format. |
-| png00 | PNG inheriting bit-depth, color-type from original if possible |
-| png24 | opaque or binary transparent 24-bit RGB (zlib 1.2.8) |
-| png32 | opaque or transparent 32-bit RGBA |
-| png48 | opaque or binary transparent 48-bit RGB |
-| png64 | opaque or transparent 64-bit RGBA |
-| png8 | 8-bit indexed with optional binary transparency |
-| pnm | Portable anymap |
-| ppm | Portable pixmap format (color) |
-| preview | Show a preview an image enhancement, effect, or f/x |
-| ps | PostScript |
-| ps2 | Level II PostScript |
-| ps3 | Level III PostScript |
-| psb | Adobe Large Document Format |
-| psd | Adobe Photoshop bitmap |
-| ptif | Pyramid encoded TIFF |
-| ras | SUN Rasterfile |
-| rgb | Raw red, green, and blue samples |
-| rgba | Raw red, green, blue, and alpha samples |
-| rgbo | Raw red, green, blue, and opacity samples |
-| sgi | Irix RGB image |
-| shtml | Hypertext Markup Language and a client-side image map |
-| six | DEC SIXEL Graphics Format |
-| sixel | DEC SIXEL Graphics Format |
-| sparse-color | Sparse Color |
-| sun | SUN Rasterfile |
-| svg | Scalable Vector Graphics (RSVG 2.40.12) |
-| svgz | Compressed Scalable Vector Graphics (RSVG 2.40.12) |
-| tga | Truevision Targa image |
-| tiff | Tagged Image File Format (LIBTIFF, Version 4.0.4) |
-| tiff64 | Tagged Image File Format (64-bit) (LIBTIFF, Version 4.0.4) |
-| ubrl | Unicode Text format |
-| ubrl6 | Unicode Text format 6dot |
-| uil | X-Motif UIL table |
-| uyvy | 16bit/pixel interleaved YUV |
-| vda | Truevision Targa image |
-| vicar | VICAR rasterfile format |
-| vid | Visual Image Directory |
-| viff | Khoros Visualization image |
-| vips | VIPS image |
-| vst | Truevision Targa image |
-| wbmp | Wireless Bitmap (level 0) image |
-| webp | WebP Image Format (libwebp 0.4.4[0203]) |
-| wmv | Windows Media Video |
-| x | X Image |
-| xbm | X Windows system bitmap (black and white) |
-| xpm | X Windows system pixmap (color) |
-| xv | Khoros Visualization image |
-| xwd | X Windows system window dump (color) |
-| ycbcr | Raw Y, Cb, and Cr samples |
-| ycbcra | Raw Y, Cb, Cr, and alpha samples |
-| yuv | CCIR 601 4:1:1 or 4:2:2 |
+| Format | Description | No Outline | White Outline | Black Outline |
+| -----: | :---------- | :---: | :---: | :---: |
+| aai | AAI Dune image | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/aai/Surge-Logo-No-Outline.aai | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/aai/Surge-Logo-White-Outline.aai | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/aai/Surge-Logo-Black-Outline.aai |
+| ai | Adobe Illustrator CS2 | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/ai/Surge-Logo-No-Outline.ai | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/ai/Surge-Logo-White-Outline.ai | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/ai/Surge-Logo-Black-Outline.ai |
+| art | PFS: 1st Publisher Clip Art | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/art/Surge-Logo-No-Outline.art | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/art/Surge-Logo-White-Outline.art | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/art/Surge-Logo-Black-Outline.art |
+| avs | AVS X image | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/avs/Surge-Logo-No-Outline.avs | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/avs/Surge-Logo-White-Outline.avs | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/avs/Surge-Logo-Black-Outline.avs |
+| bgr | Raw blue, green, and red samples | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/bgr/Surge-Logo-No-Outline.bgr | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/bgr/Surge-Logo-White-Outline.bgr | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/bgr/Surge-Logo-Black-Outline.bgr |
+| bgra | Raw blue, green, red, and alpha samples | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/bgra/Surge-Logo-No-Outline.bgra | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/bgra/Surge-Logo-White-Outline.bgra | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/bgra/Surge-Logo-Black-Outline.bgra |
+| bgro | Raw blue, green, red, and opacity samples | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/bgro/Surge-Logo-No-Outline.bgro | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/bgro/Surge-Logo-White-Outline.bgro | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/bgro/Surge-Logo-Black-Outline.bgro |
+| bie | Joint Bi-level Image experts Group interchange format (2.1) | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/bie/Surge-Logo-No-Outline.bie | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/bie/Surge-Logo-White-Outline.bie | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/bie/Surge-Logo-Black-Outline.bie |
+| bmp | Microsoft Windows bitmap image | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/bmp/Surge-Logo-No-Outline.bmp | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/bmp/Surge-Logo-White-Outline.bmp | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/bmp/Surge-Logo-Black-Outline.bmp |
+| bmp2 | Microsoft Windows bitmap image (V2) | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/bmp2/Surge-Logo-No-Outline.bmp2 | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/bmp2/Surge-Logo-White-Outline.bmp2 | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/bmp2/Surge-Logo-Black-Outline.bmp2 |
+| bmp3 | Microsoft Windows bitmap image (V3) | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/bmp3/Surge-Logo-No-Outline.bmp3 | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/bmp3/Surge-Logo-White-Outline.bmp3 | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/bmp3/Surge-Logo-Black-Outline.bmp3 |
+| brf | BRF ASCII Braille format | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/brf/Surge-Logo-No-Outline.brf | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/brf/Surge-Logo-White-Outline.brf | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/brf/Surge-Logo-Black-Outline.brf |
+| cal | Continuous Acquisition and Life-cycle Support Type 1 Specified in MIL-R-28002 and MIL-PRF-28002 | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/cal/Surge-Logo-No-Outline.cal | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/cal/Surge-Logo-White-Outline.cal | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/cal/Surge-Logo-Black-Outline.cal |
+| cals | Continuous Acquisition and Life-cycle Support Type 1 Specified in MIL-R-28002 and MIL-PRF-28002 | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/cals/Surge-Logo-No-Outline.cals | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/cals/Surge-Logo-White-Outline.cals | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/cals/Surge-Logo-Black-Outline.cals |
+| cin | Cineon Image File | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/cin/Surge-Logo-No-Outline.cin | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/cin/Surge-Logo-White-Outline.cin | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/cin/Surge-Logo-Black-Outline.cin |
+| cip | Cisco IP phone image format | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/cip/Surge-Logo-No-Outline.cip | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/cip/Surge-Logo-White-Outline.cip | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/cip/Surge-Logo-Black-Outline.cip |
+| cmyk | Raw cyan, magenta, yellow, and black samples | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/cmyk/Surge-Logo-No-Outline.cmyk | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/cmyk/Surge-Logo-White-Outline.cmyk | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/cmyk/Surge-Logo-Black-Outline.cmyk |
+| cmyka | Raw cyan, magenta, yellow, black, and alpha samples | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/cmyka/Surge-Logo-No-Outline.cmyka | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/cmyka/Surge-Logo-White-Outline.cmyka | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/cmyka/Surge-Logo-Black-Outline.cmyka |
+| data | Base64-encoded inline images | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/data/Surge-Logo-No-Outline.data | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/data/Surge-Logo-White-Outline.data | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/data/Surge-Logo-Black-Outline.data |
+| dcx | ZSoft IBM PC multi-page Paintbrush | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/dcx/Surge-Logo-No-Outline.dcx | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/dcx/Surge-Logo-White-Outline.dcx | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/dcx/Surge-Logo-Black-Outline.dcx |
+| dds | Microsoft DirectDraw Surface | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/dds/Surge-Logo-No-Outline.dds | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/dds/Surge-Logo-White-Outline.dds | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/dds/Surge-Logo-Black-Outline.dds |
+| dpx | SMPTE 268M-2003 (DPX 2.0) Digital Moving Picture Exchange Bitmap, Version 2.0.  See SMPTE 268M-2003 specification at http://www.smtpe.org  | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/dpx/Surge-Logo-No-Outline.dpx | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/dpx/Surge-Logo-White-Outline.dpx | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/dpx/Surge-Logo-Black-Outline.dpx |
+| dxt1 | Microsoft DirectDraw Surface | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/dxt1/Surge-Logo-No-Outline.dxt1 | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/dxt1/Surge-Logo-White-Outline.dxt1 | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/dxt1/Surge-Logo-Black-Outline.dxt1 |
+| dxt5 | Microsoft DirectDraw Surface | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/dxt5/Surge-Logo-No-Outline.dxt5 | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/dxt5/Surge-Logo-White-Outline.dxt5 | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/dxt5/Surge-Logo-Black-Outline.dxt5 |
+| epdf | Encapsulated Portable Document Format | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/epdf/Surge-Logo-No-Outline.epdf | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/epdf/Surge-Logo-White-Outline.epdf | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/epdf/Surge-Logo-Black-Outline.epdf |
+| epi | Encapsulated PostScript Interchange format | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/epi/Surge-Logo-No-Outline.epi | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/epi/Surge-Logo-White-Outline.epi | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/epi/Surge-Logo-Black-Outline.epi |
+| eps | Encapsulated PostScript | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/eps/Surge-Logo-No-Outline.eps | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/eps/Surge-Logo-White-Outline.eps | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/eps/Surge-Logo-Black-Outline.eps |
+| eps2 | Level II Encapsulated PostScript | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/eps2/Surge-Logo-No-Outline.eps2 | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/eps2/Surge-Logo-White-Outline.eps2 | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/eps2/Surge-Logo-Black-Outline.eps2 |
+| eps3 | Level III Encapsulated PostScript | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/eps3/Surge-Logo-No-Outline.eps3 | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/eps3/Surge-Logo-White-Outline.eps3 | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/eps3/Surge-Logo-Black-Outline.eps3 |
+| epsf | Encapsulated PostScript | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/epsf/Surge-Logo-No-Outline.epsf | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/epsf/Surge-Logo-White-Outline.epsf | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/epsf/Surge-Logo-Black-Outline.epsf |
+| epsi | Encapsulated PostScript Interchange format | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/epsi/Surge-Logo-No-Outline.epsi | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/epsi/Surge-Logo-White-Outline.epsi | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/epsi/Surge-Logo-Black-Outline.epsi |
+| ept | Encapsulated PostScript with TIFF preview | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/ept/Surge-Logo-No-Outline.ept | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/ept/Surge-Logo-White-Outline.ept | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/ept/Surge-Logo-Black-Outline.ept |
+| ept2 | Encapsulated PostScript Level II with TIFF preview | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/ept2/Surge-Logo-No-Outline.ept2 | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/ept2/Surge-Logo-White-Outline.ept2 | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/ept2/Surge-Logo-Black-Outline.ept2 |
+| ept3 | Encapsulated PostScript Level III with TIFF preview | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/ept3/Surge-Logo-No-Outline.ept3 | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/ept3/Surge-Logo-White-Outline.ept3 | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/ept3/Surge-Logo-Black-Outline.ept3 |
+| exr | High Dynamic-range (HDR) | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/exr/Surge-Logo-No-Outline.exr | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/exr/Surge-Logo-White-Outline.exr | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/exr/Surge-Logo-Black-Outline.exr |
+| fax | Group 3 FAX FAX machines use non-square pixels which are 1.5 times wider than they are tall but computer displays use square pixels, therefore FAX images may appear to be narrow unless they are explicitly resized using a geometry of "150x100%".   | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/fax/Surge-Logo-No-Outline.fax | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/fax/Surge-Logo-White-Outline.fax | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/fax/Surge-Logo-Black-Outline.fax |
+| fits | Flexible Image Transport System | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/fits/Surge-Logo-No-Outline.fits | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/fits/Surge-Logo-White-Outline.fits | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/fits/Surge-Logo-Black-Outline.fits |
+| fts | Flexible Image Transport System | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/fts/Surge-Logo-No-Outline.fts | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/fts/Surge-Logo-White-Outline.fts | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/fts/Surge-Logo-Black-Outline.fts |
+| g3 | Group 3 FAX | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/g3/Surge-Logo-No-Outline.g3 | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/g3/Surge-Logo-White-Outline.g3 | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/g3/Surge-Logo-Black-Outline.g3 |
+| gif | CompuServe graphics interchange format | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/gif/Surge-Logo-No-Outline.gif | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/gif/Surge-Logo-White-Outline.gif | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/gif/Surge-Logo-Black-Outline.gif |
+| gif87 | CompuServe graphics interchange format (version 87a) | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/gif87/Surge-Logo-No-Outline.gif87 | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/gif87/Surge-Logo-White-Outline.gif87 | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/gif87/Surge-Logo-Black-Outline.gif87 |
+| gray | Raw gray samples | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/gray/Surge-Logo-No-Outline.gray | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/gray/Surge-Logo-White-Outline.gray | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/gray/Surge-Logo-Black-Outline.gray |
+| group4 | Raw CCITT Group4 | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/group4/Surge-Logo-No-Outline.group4 | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/group4/Surge-Logo-White-Outline.group4 | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/group4/Surge-Logo-Black-Outline.group4 |
+| h | Image expressed as a 'C/C++' char array | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/h/Surge-Logo-No-Outline.h | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/h/Surge-Logo-White-Outline.h | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/h/Surge-Logo-Black-Outline.h |
+| hdr | Radiance RGBE image format | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/hdr/Surge-Logo-No-Outline.hdr | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/hdr/Surge-Logo-White-Outline.hdr | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/hdr/Surge-Logo-Black-Outline.hdr |
+| histogram | Histogram of the image | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/histogram/Surge-Logo-No-Outline.histogram | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/histogram/Surge-Logo-White-Outline.histogram | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/histogram/Surge-Logo-Black-Outline.histogram |
+| hrz | Slow Scan TeleVision | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/hrz/Surge-Logo-No-Outline.hrz | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/hrz/Surge-Logo-White-Outline.hrz | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/hrz/Surge-Logo-Black-Outline.hrz |
+| icb | Truevision Targa image | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/icb/Surge-Logo-No-Outline.icb | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/icb/Surge-Logo-White-Outline.icb | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/icb/Surge-Logo-Black-Outline.icb |
+| info | The image format and characteristics | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/info/Surge-Logo-No-Outline.info | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/info/Surge-Logo-White-Outline.info | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/info/Surge-Logo-Black-Outline.info |
+| inline | Base64-encoded inline images | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/inline/Surge-Logo-No-Outline.inline | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/inline/Surge-Logo-White-Outline.inline | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/inline/Surge-Logo-Black-Outline.inline |
+| ipl | IPL Image Sequence | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/ipl/Surge-Logo-No-Outline.ipl | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/ipl/Surge-Logo-White-Outline.ipl | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/ipl/Surge-Logo-Black-Outline.ipl |
+| isobrl | ISO/TR 11548-1 format | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/isobrl/Surge-Logo-No-Outline.isobrl | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/isobrl/Surge-Logo-White-Outline.isobrl | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/isobrl/Surge-Logo-Black-Outline.isobrl |
+| isobrl6 | ISO/TR 11548-1 format 6dot | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/isobrl6/Surge-Logo-No-Outline.isobrl6 | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/isobrl6/Surge-Logo-White-Outline.isobrl6 | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/isobrl6/Surge-Logo-Black-Outline.isobrl6 |
+| j2c | JPEG-2000 Code Stream Syntax (2.1.0) | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/j2c/Surge-Logo-No-Outline.j2c | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/j2c/Surge-Logo-White-Outline.j2c | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/j2c/Surge-Logo-Black-Outline.j2c |
+| j2k | JPEG-2000 Code Stream Syntax (2.1.0) | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/j2k/Surge-Logo-No-Outline.j2k | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/j2k/Surge-Logo-White-Outline.j2k | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/j2k/Surge-Logo-Black-Outline.j2k |
+| jbg | Joint Bi-level Image experts Group interchange format (2.1) | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/jbg/Surge-Logo-No-Outline.jbg | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/jbg/Surge-Logo-White-Outline.jbg | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/jbg/Surge-Logo-Black-Outline.jbg |
+| jbig | Joint Bi-level Image experts Group interchange format (2.1) | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/jbig/Surge-Logo-No-Outline.jbig | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/jbig/Surge-Logo-White-Outline.jbig | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/jbig/Surge-Logo-Black-Outline.jbig |
+| jng | JPEG Network Graphics See http://www.libpng.org/pub/mng/ for details about the JNG format. | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/jng/Surge-Logo-No-Outline.jng | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/jng/Surge-Logo-White-Outline.jng | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/jng/Surge-Logo-Black-Outline.jng |
+| jp2 | JPEG-2000 File Format Syntax (2.1.0) | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/jp2/Surge-Logo-No-Outline.jp2 | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/jp2/Surge-Logo-White-Outline.jp2 | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/jp2/Surge-Logo-Black-Outline.jp2 |
+| jpc | JPEG-2000 Code Stream Syntax (2.1.0) | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/jpc/Surge-Logo-No-Outline.jpc | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/jpc/Surge-Logo-White-Outline.jpc | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/jpc/Surge-Logo-Black-Outline.jpc |
+| jpe | Joint Photographic Experts Group JFIF format (62) | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/jpe/Surge-Logo-No-Outline.jpe | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/jpe/Surge-Logo-White-Outline.jpe | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/jpe/Surge-Logo-Black-Outline.jpe |
+| jpeg | Joint Photographic Experts Group JFIF format (62) | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/jpeg/Surge-Logo-No-Outline.jpeg | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/jpeg/Surge-Logo-White-Outline.jpeg | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/jpeg/Surge-Logo-Black-Outline.jpeg |
+| jpg | Joint Photographic Experts Group JFIF format (62) | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/jpg/Surge-Logo-No-Outline.jpg | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/jpg/Surge-Logo-White-Outline.jpg | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/jpg/Surge-Logo-Black-Outline.jpg |
+| jpm | JPEG-2000 Code Stream Syntax (2.1.0) | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/jpm/Surge-Logo-No-Outline.jpm | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/jpm/Surge-Logo-White-Outline.jpm | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/jpm/Surge-Logo-Black-Outline.jpm |
+| jps | Joint Photographic Experts Group JFIF format (62) | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/jps/Surge-Logo-No-Outline.jps | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/jps/Surge-Logo-White-Outline.jps | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/jps/Surge-Logo-Black-Outline.jps |
+| json | The image format and characteristics | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/json/Surge-Logo-No-Outline.json | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/json/Surge-Logo-White-Outline.json | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/json/Surge-Logo-Black-Outline.json |
+| m2v | MPEG Video Stream | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/m2v/Surge-Logo-No-Outline.m2v | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/m2v/Surge-Logo-White-Outline.m2v | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/m2v/Surge-Logo-Black-Outline.m2v |
+| m4v | Raw MPEG-4 Video | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/m4v/Surge-Logo-No-Outline.m4v | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/m4v/Surge-Logo-White-Outline.m4v | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/m4v/Surge-Logo-Black-Outline.m4v |
+| magick | Predefined Magick Image (LOGO, ROSE, etc.); output same as 'H' | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/magick/Surge-Logo-No-Outline.magick | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/magick/Surge-Logo-White-Outline.magick | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/magick/Surge-Logo-Black-Outline.magick |
+| map | Colormap intensities and indices | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/map/Surge-Logo-No-Outline.map | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/map/Surge-Logo-White-Outline.map | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/map/Surge-Logo-Black-Outline.map |
+| mat | MATLAB level 5 image format | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/mat/Surge-Logo-No-Outline.mat | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/mat/Surge-Logo-White-Outline.mat | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/mat/Surge-Logo-Black-Outline.mat |
+| matte | MATTE format | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/matte/Surge-Logo-No-Outline.matte | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/matte/Surge-Logo-White-Outline.matte | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/matte/Surge-Logo-Black-Outline.matte |
+| miff | Magick Image File Format | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/miff/Surge-Logo-No-Outline.miff | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/miff/Surge-Logo-White-Outline.miff | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/miff/Surge-Logo-Black-Outline.miff |
+| mkv | Multimedia Container | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/mkv/Surge-Logo-No-Outline.mkv | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/mkv/Surge-Logo-White-Outline.mkv | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/mkv/Surge-Logo-Black-Outline.mkv |
+| mng | Multiple-image Network Graphics (libpng 1.6.19) See http://www.libpng.org/pub/mng/ for details about the MNG format. | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/mng/Surge-Logo-No-Outline.mng | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/mng/Surge-Logo-White-Outline.mng | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/mng/Surge-Logo-Black-Outline.mng |
+| mono | Raw bi-level bitmap | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/mono/Surge-Logo-No-Outline.mono | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/mono/Surge-Logo-White-Outline.mono | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/mono/Surge-Logo-Black-Outline.mono |
+| mov | MPEG Video Stream | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/mov/Surge-Logo-No-Outline.mov | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/mov/Surge-Logo-White-Outline.mov | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/mov/Surge-Logo-Black-Outline.mov |
+| mp4 | MPEG-4 Video Stream | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/mp4/Surge-Logo-No-Outline.mp4 | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/mp4/Surge-Logo-White-Outline.mp4 | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/mp4/Surge-Logo-Black-Outline.mp4 |
+| mpc | Magick Persistent Cache image format | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/mpc/Surge-Logo-No-Outline.mpc | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/mpc/Surge-Logo-White-Outline.mpc | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/mpc/Surge-Logo-Black-Outline.mpc |
+| mpeg | MPEG Video Stream | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/mpeg/Surge-Logo-No-Outline.mpeg | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/mpeg/Surge-Logo-White-Outline.mpeg | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/mpeg/Surge-Logo-Black-Outline.mpeg |
+| mpg | MPEG Video Stream | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/mpg/Surge-Logo-No-Outline.mpg | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/mpg/Surge-Logo-White-Outline.mpg | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/mpg/Surge-Logo-Black-Outline.mpg |
+| msvg | ImageMagick's own SVG internal renderer | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/msvg/Surge-Logo-No-Outline.msvg | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/msvg/Surge-Logo-White-Outline.msvg | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/msvg/Surge-Logo-Black-Outline.msvg |
+| mtv | MTV Raytracing image format | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/mtv/Surge-Logo-No-Outline.mtv | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/mtv/Surge-Logo-White-Outline.mtv | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/mtv/Surge-Logo-Black-Outline.mtv |
+| null | Constant image of uniform color | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/null/Surge-Logo-No-Outline.null | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/null/Surge-Logo-White-Outline.null | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/null/Surge-Logo-Black-Outline.null |
+| otb | On-the-air bitmap | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/otb/Surge-Logo-No-Outline.otb | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/otb/Surge-Logo-White-Outline.otb | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/otb/Surge-Logo-Black-Outline.otb |
+| pal | 16bit/pixel interleaved YUV | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/pal/Surge-Logo-No-Outline.pal | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/pal/Surge-Logo-White-Outline.pal | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/pal/Surge-Logo-Black-Outline.pal |
+| palm | Palm pixmap | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/palm/Surge-Logo-No-Outline.palm | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/palm/Surge-Logo-White-Outline.palm | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/palm/Surge-Logo-Black-Outline.palm |
+| pam | Common 2-dimensional bitmap format | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/pam/Surge-Logo-No-Outline.pam | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/pam/Surge-Logo-White-Outline.pam | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/pam/Surge-Logo-Black-Outline.pam |
+| pbm | Portable bitmap format (black and white) | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/pbm/Surge-Logo-No-Outline.pbm | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/pbm/Surge-Logo-White-Outline.pbm | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/pbm/Surge-Logo-Black-Outline.pbm |
+| pcd | Photo CD | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/pcd/Surge-Logo-No-Outline.pcd | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/pcd/Surge-Logo-White-Outline.pcd | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/pcd/Surge-Logo-Black-Outline.pcd |
+| pcds | Photo CD | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/pcds/Surge-Logo-No-Outline.pcds | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/pcds/Surge-Logo-White-Outline.pcds | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/pcds/Surge-Logo-Black-Outline.pcds |
+| pcl | Printer Control Language | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/pcl/Surge-Logo-No-Outline.pcl | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/pcl/Surge-Logo-White-Outline.pcl | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/pcl/Surge-Logo-Black-Outline.pcl |
+| pct | Apple Macintosh QuickDraw/PICT | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/pct/Surge-Logo-No-Outline.pct | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/pct/Surge-Logo-White-Outline.pct | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/pct/Surge-Logo-Black-Outline.pct |
+| pcx | ZSoft IBM PC Paintbrush | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/pcx/Surge-Logo-No-Outline.pcx | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/pcx/Surge-Logo-White-Outline.pcx | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/pcx/Surge-Logo-Black-Outline.pcx |
+| pdb | Palm Database ImageViewer Format | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/pdb/Surge-Logo-No-Outline.pdb | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/pdb/Surge-Logo-White-Outline.pdb | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/pdb/Surge-Logo-Black-Outline.pdb |
+| pdf | Portable Document Format | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/pdf/Surge-Logo-No-Outline.pdf | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/pdf/Surge-Logo-White-Outline.pdf | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/pdf/Surge-Logo-Black-Outline.pdf |
+| pdfa | Portable Document Archive Format | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/pdfa/Surge-Logo-No-Outline.pdfa | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/pdfa/Surge-Logo-White-Outline.pdfa | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/pdfa/Surge-Logo-Black-Outline.pdfa |
+| pfm | Portable float format | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/pfm/Surge-Logo-No-Outline.pfm | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/pfm/Surge-Logo-White-Outline.pfm | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/pfm/Surge-Logo-Black-Outline.pfm |
+| pgm | Portable graymap format (gray scale) | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/pgm/Surge-Logo-No-Outline.pgm | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/pgm/Surge-Logo-White-Outline.pgm | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/pgm/Surge-Logo-Black-Outline.pgm |
+| picon | Personal Icon | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/picon/Surge-Logo-No-Outline.picon | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/picon/Surge-Logo-White-Outline.picon | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/picon/Surge-Logo-Black-Outline.picon |
+| pict | Apple Macintosh QuickDraw/PICT | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/pict/Surge-Logo-No-Outline.pict | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/pict/Surge-Logo-White-Outline.pict | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/pict/Surge-Logo-Black-Outline.pict |
+| pjpeg | Joint Photographic Experts Group JFIF format (62) | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/pjpeg/Surge-Logo-No-Outline.pjpeg | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/pjpeg/Surge-Logo-White-Outline.pjpeg | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/pjpeg/Surge-Logo-Black-Outline.pjpeg |
+| png | Portable Network Graphics (libpng 1.6.19) See http://www.libpng.org/ for details about the PNG format. | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/png/Surge-Logo-No-Outline.png | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/png/Surge-Logo-White-Outline.png | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/png/Surge-Logo-Black-Outline.png |
+| png00 | PNG inheriting bit-depth, color-type from original if possible | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/png00/Surge-Logo-No-Outline.png00 | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/png00/Surge-Logo-White-Outline.png00 | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/png00/Surge-Logo-Black-Outline.png00 |
+| png24 | opaque or binary transparent 24-bit RGB (zlib 1.2.8) | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/png24/Surge-Logo-No-Outline.png24 | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/png24/Surge-Logo-White-Outline.png24 | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/png24/Surge-Logo-Black-Outline.png24 |
+| png32 | opaque or transparent 32-bit RGBA | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/png32/Surge-Logo-No-Outline.png32 | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/png32/Surge-Logo-White-Outline.png32 | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/png32/Surge-Logo-Black-Outline.png32 |
+| png48 | opaque or binary transparent 48-bit RGB | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/png48/Surge-Logo-No-Outline.png48 | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/png48/Surge-Logo-White-Outline.png48 | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/png48/Surge-Logo-Black-Outline.png48 |
+| png64 | opaque or transparent 64-bit RGBA | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/png64/Surge-Logo-No-Outline.png64 | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/png64/Surge-Logo-White-Outline.png64 | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/png64/Surge-Logo-Black-Outline.png64 |
+| png8 | 8-bit indexed with optional binary transparency | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/png8/Surge-Logo-No-Outline.png8 | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/png8/Surge-Logo-White-Outline.png8 | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/png8/Surge-Logo-Black-Outline.png8 |
+| pnm | Portable anymap | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/pnm/Surge-Logo-No-Outline.pnm | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/pnm/Surge-Logo-White-Outline.pnm | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/pnm/Surge-Logo-Black-Outline.pnm |
+| ppm | Portable pixmap format (color) | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/ppm/Surge-Logo-No-Outline.ppm | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/ppm/Surge-Logo-White-Outline.ppm | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/ppm/Surge-Logo-Black-Outline.ppm |
+| preview | Show a preview an image enhancement, effect, or f/x | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/preview/Surge-Logo-No-Outline.preview | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/preview/Surge-Logo-White-Outline.preview | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/preview/Surge-Logo-Black-Outline.preview |
+| ps | PostScript | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/ps/Surge-Logo-No-Outline.ps | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/ps/Surge-Logo-White-Outline.ps | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/ps/Surge-Logo-Black-Outline.ps |
+| ps2 | Level II PostScript | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/ps2/Surge-Logo-No-Outline.ps2 | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/ps2/Surge-Logo-White-Outline.ps2 | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/ps2/Surge-Logo-Black-Outline.ps2 |
+| ps3 | Level III PostScript | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/ps3/Surge-Logo-No-Outline.ps3 | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/ps3/Surge-Logo-White-Outline.ps3 | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/ps3/Surge-Logo-Black-Outline.ps3 |
+| psb | Adobe Large Document Format | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/psb/Surge-Logo-No-Outline.psb | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/psb/Surge-Logo-White-Outline.psb | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/psb/Surge-Logo-Black-Outline.psb |
+| psd | Adobe Photoshop bitmap | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/psd/Surge-Logo-No-Outline.psd | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/psd/Surge-Logo-White-Outline.psd | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/psd/Surge-Logo-Black-Outline.psd |
+| ptif | Pyramid encoded TIFF | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/ptif/Surge-Logo-No-Outline.ptif | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/ptif/Surge-Logo-White-Outline.ptif | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/ptif/Surge-Logo-Black-Outline.ptif |
+| ras | SUN Rasterfile | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/ras/Surge-Logo-No-Outline.ras | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/ras/Surge-Logo-White-Outline.ras | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/ras/Surge-Logo-Black-Outline.ras |
+| rgb | Raw red, green, and blue samples | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/rgb/Surge-Logo-No-Outline.rgb | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/rgb/Surge-Logo-White-Outline.rgb | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/rgb/Surge-Logo-Black-Outline.rgb |
+| rgba | Raw red, green, blue, and alpha samples | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/rgba/Surge-Logo-No-Outline.rgba | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/rgba/Surge-Logo-White-Outline.rgba | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/rgba/Surge-Logo-Black-Outline.rgba |
+| rgbo | Raw red, green, blue, and opacity samples | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/rgbo/Surge-Logo-No-Outline.rgbo | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/rgbo/Surge-Logo-White-Outline.rgbo | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/rgbo/Surge-Logo-Black-Outline.rgbo |
+| sgi | Irix RGB image | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/sgi/Surge-Logo-No-Outline.sgi | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/sgi/Surge-Logo-White-Outline.sgi | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/sgi/Surge-Logo-Black-Outline.sgi |
+| shtml | Hypertext Markup Language and a client-side image map | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/shtml/Surge-Logo-No-Outline.shtml | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/shtml/Surge-Logo-White-Outline.shtml | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/shtml/Surge-Logo-Black-Outline.shtml |
+| six | DEC SIXEL Graphics Format | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/six/Surge-Logo-No-Outline.six | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/six/Surge-Logo-White-Outline.six | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/six/Surge-Logo-Black-Outline.six |
+| sixel | DEC SIXEL Graphics Format | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/sixel/Surge-Logo-No-Outline.sixel | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/sixel/Surge-Logo-White-Outline.sixel | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/sixel/Surge-Logo-Black-Outline.sixel |
+| sparse-color | Sparse Color | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/sparse-color/Surge-Logo-No-Outline.sparse-color | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/sparse-color/Surge-Logo-White-Outline.sparse-color | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/sparse-color/Surge-Logo-Black-Outline.sparse-color |
+| sun | SUN Rasterfile | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/sun/Surge-Logo-No-Outline.sun | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/sun/Surge-Logo-White-Outline.sun | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/sun/Surge-Logo-Black-Outline.sun |
+| svg | Scalable Vector Graphics (RSVG 2.40.12) | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/svg/Surge-Logo-No-Outline.svg | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/svg/Surge-Logo-White-Outline.svg | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/svg/Surge-Logo-Black-Outline.svg |
+| svgz | Compressed Scalable Vector Graphics (RSVG 2.40.12) | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/svgz/Surge-Logo-No-Outline.svgz | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/svgz/Surge-Logo-White-Outline.svgz | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/svgz/Surge-Logo-Black-Outline.svgz |
+| tga | Truevision Targa image | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/tga/Surge-Logo-No-Outline.tga | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/tga/Surge-Logo-White-Outline.tga | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/tga/Surge-Logo-Black-Outline.tga |
+| tiff | Tagged Image File Format (LIBTIFF, Version 4.0.4) | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/tiff/Surge-Logo-No-Outline.tiff | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/tiff/Surge-Logo-White-Outline.tiff | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/tiff/Surge-Logo-Black-Outline.tiff |
+| tiff64 | Tagged Image File Format (64-bit) (LIBTIFF, Version 4.0.4) | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/tiff64/Surge-Logo-No-Outline.tiff64 | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/tiff64/Surge-Logo-White-Outline.tiff64 | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/tiff64/Surge-Logo-Black-Outline.tiff64 |
+| ubrl | Unicode Text format | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/ubrl/Surge-Logo-No-Outline.ubrl | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/ubrl/Surge-Logo-White-Outline.ubrl | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/ubrl/Surge-Logo-Black-Outline.ubrl |
+| ubrl6 | Unicode Text format 6dot | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/ubrl6/Surge-Logo-No-Outline.ubrl6 | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/ubrl6/Surge-Logo-White-Outline.ubrl6 | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/ubrl6/Surge-Logo-Black-Outline.ubrl6 |
+| uil | X-Motif UIL table | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/uil/Surge-Logo-No-Outline.uil | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/uil/Surge-Logo-White-Outline.uil | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/uil/Surge-Logo-Black-Outline.uil |
+| uyvy | 16bit/pixel interleaved YUV | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/uyvy/Surge-Logo-No-Outline.uyvy | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/uyvy/Surge-Logo-White-Outline.uyvy | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/uyvy/Surge-Logo-Black-Outline.uyvy |
+| vda | Truevision Targa image | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/vda/Surge-Logo-No-Outline.vda | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/vda/Surge-Logo-White-Outline.vda | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/vda/Surge-Logo-Black-Outline.vda |
+| vicar | VICAR rasterfile format | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/vicar/Surge-Logo-No-Outline.vicar | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/vicar/Surge-Logo-White-Outline.vicar | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/vicar/Surge-Logo-Black-Outline.vicar |
+| vid | Visual Image Directory | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/vid/Surge-Logo-No-Outline.vid | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/vid/Surge-Logo-White-Outline.vid | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/vid/Surge-Logo-Black-Outline.vid |
+| viff | Khoros Visualization image | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/viff/Surge-Logo-No-Outline.viff | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/viff/Surge-Logo-White-Outline.viff | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/viff/Surge-Logo-Black-Outline.viff |
+| vips | VIPS image | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/vips/Surge-Logo-No-Outline.vips | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/vips/Surge-Logo-White-Outline.vips | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/vips/Surge-Logo-Black-Outline.vips |
+| vst | Truevision Targa image | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/vst/Surge-Logo-No-Outline.vst | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/vst/Surge-Logo-White-Outline.vst | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/vst/Surge-Logo-Black-Outline.vst |
+| wbmp | Wireless Bitmap (level 0) image | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/wbmp/Surge-Logo-No-Outline.wbmp | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/wbmp/Surge-Logo-White-Outline.wbmp | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/wbmp/Surge-Logo-Black-Outline.wbmp |
+| webp | WebP Image Format (libwebp 0.4.4[0203]) | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/webp/Surge-Logo-No-Outline.webp | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/webp/Surge-Logo-White-Outline.webp | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/webp/Surge-Logo-Black-Outline.webp |
+| wmv | Windows Media Video | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/wmv/Surge-Logo-No-Outline.wmv | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/wmv/Surge-Logo-White-Outline.wmv | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/wmv/Surge-Logo-Black-Outline.wmv |
+| x | X Image | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/x/Surge-Logo-No-Outline.x | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/x/Surge-Logo-White-Outline.x | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/x/Surge-Logo-Black-Outline.x |
+| xbm | X Windows system bitmap (black and white) | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/xbm/Surge-Logo-No-Outline.xbm | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/xbm/Surge-Logo-White-Outline.xbm | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/xbm/Surge-Logo-Black-Outline.xbm |
+| xpm | X Windows system pixmap (color) | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/xpm/Surge-Logo-No-Outline.xpm | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/xpm/Surge-Logo-White-Outline.xpm | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/xpm/Surge-Logo-Black-Outline.xpm |
+| xv | Khoros Visualization image | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/xv/Surge-Logo-No-Outline.xv | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/xv/Surge-Logo-White-Outline.xv | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/xv/Surge-Logo-Black-Outline.xv |
+| xwd | X Windows system window dump (color) | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/xwd/Surge-Logo-No-Outline.xwd | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/xwd/Surge-Logo-White-Outline.xwd | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/xwd/Surge-Logo-Black-Outline.xwd |
+| ycbcr | Raw Y, Cb, and Cr samples | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/ycbcr/Surge-Logo-No-Outline.ycbcr | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/ycbcr/Surge-Logo-White-Outline.ycbcr | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/ycbcr/Surge-Logo-Black-Outline.ycbcr |
+| ycbcra | Raw Y, Cb, Cr, and alpha samples | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/ycbcra/Surge-Logo-No-Outline.ycbcra | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/ycbcra/Surge-Logo-White-Outline.ycbcra | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/ycbcra/Surge-Logo-Black-Outline.ycbcra |
+| yuv | CCIR 601 4:1:1 or 4:2:2 | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/yuv/Surge-Logo-No-Outline.yuv | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/yuv/Surge-Logo-White-Outline.yuv | https://raw.githubusercontent.com/bdperkin/Surge-Logo/master/formats/yuv/Surge-Logo-Black-Outline.yuv |
