@@ -19,12 +19,10 @@
   CAPTION* CAPTION   r--   Caption
       CIN* CIN       rw-   Cineon Image File
       CIP* CIP       -w-   Cisco IP phone image format
-     CLIP* CLIP      rw+   Image Clip Mask
      CMYK* CMYK      rw+   Raw cyan, magenta, yellow, and black samples
     CMYKA* CMYK      rw+   Raw cyan, magenta, yellow, black, and alpha samples
       CR2  DNG       r--   Canon Digital Camera Raw Image Format
       CRW  DNG       r--   Canon Digital Camera Raw Image Format
-      CUR* ICON      rw-   Microsoft icon
       CUT* CUT       r--   DR Halo
      DATA* INLINE    rw+   Base64-encoded inline images
       DCM* DCM       r--   Digital Imaging and Communications in Medicine image
@@ -65,11 +63,7 @@
       HDR* HDR       rw+   Radiance RGBE image format
 HISTOGRAM* HISTOGRAM -w-   Histogram of the image
       HRZ* HRZ       rw-   Slow Scan TeleVision
-      HTM* HTML      -w-   Hypertext Markup Language and a client-side image map
-     HTML* HTML      -w-   Hypertext Markup Language and a client-side image map
       ICB* TGA       rw-   Truevision Targa image
-      ICO* ICON      rw+   Microsoft icon
-     ICON* ICON      rw-   Microsoft icon
       IIQ  DNG       r--   Phase One Raw Image Format
      INFO  INFO      -w+   The image format and characteristics
    INLINE* INLINE    rw+   Base64-encoded inline images
@@ -89,7 +83,6 @@ HISTOGRAM* HISTOGRAM -w-   Histogram of the image
       JPG* JPEG      rw-   Joint Photographic Experts Group JFIF format (62)
       JPM* JP2       rw-   JPEG-2000 Code Stream Syntax (2.1.0)
       JPS* JPEG      rw-   Joint Photographic Experts Group JFIF format (62)
-      JPT* JP2       rw-   JPEG-2000 File Format Syntax (2.1.0)
      JSON  JSON      -w+   The image format and characteristics
       K25  DNG       r--   Kodak Digital Camera Raw Image Format
       KDC  DNG       r--   Kodak Digital Camera Raw Image Format
@@ -99,7 +92,6 @@ HISTOGRAM* HISTOGRAM -w-   Histogram of the image
       MAC* MAC       r--   MAC Paint
    MAGICK* MAGICK    rw-   Predefined Magick Image (LOGO, ROSE, etc.); output same as 'H'
       MAP* MAP       rw-   Colormap intensities and indices
-     MASK* MASK      rw+   Image Clip Mask
       MAT  MAT       rw+   MATLAB level 5 image format
     MATTE* MATTE     -w+   MATTE format
       MEF  DNG       r--   Mamiya Raw Image File
@@ -113,10 +105,8 @@ HISTOGRAM* HISTOGRAM -w-   Histogram of the image
      MPEG  MPEG      rw+   MPEG Video Stream
       MPG  MPEG      rw+   MPEG Video Stream
       MRW  DNG       r--   Sony (Minolta) Raw Image File
-      MSL* MSL       rw+   Magick Scripting Language
      MSVG  SVG       rw+   ImageMagick's own SVG internal renderer
       MTV* MTV       rw+   MTV Raytracing image format
-      MVG* MVG       rw-   Magick Vector Graphics
       NEF  DNG       r--   Nikon Digital SLR Camera Raw Image File
       NRW  DNG       r--   Nikon Digital SLR Camera Raw Image File
      NULL* NULL      rw-   Constant image of uniform color
@@ -172,7 +162,6 @@ RADIAL-GRADIENT* GRADIENT  r--   Gradual radial passing from one shade to anothe
       RGB* RGB       rw+   Raw red, green, and blue samples
      RGBA* RGB       rw+   Raw red, green, blue, and alpha samples
      RGBO* RGB       rw+   Raw red, green, blue, and opacity samples
-      RGF* RGF       rw-   LEGO Mindstorms EV3 Robot Graphic Format (black and white)
       RLA* RLA       r--   Alias/Wavefront image
       RLE* RLE       r--   Utah Run length encoded image
       RMF  DNG       r--   Raw Media Format
@@ -191,7 +180,6 @@ SPARSE-COLOR* TXT       -w+   Sparse Color
       SUN* SUN       rw+   SUN Rasterfile
       SVG  SVG       rw+   Scalable Vector Graphics (RSVG 2.40.12)
      SVGZ  SVG       rw+   Compressed Scalable Vector Graphics (RSVG 2.40.12)
-     TEXT* TXT       rw+   Text
       TGA* TGA       rw-   Truevision Targa image
 THUMBNAIL* THUMBNAIL -w+   EXIF Profile Thumbnail
      TIFF* TIFF      rw+   Tagged Image File Format (LIBTIFF, Version 4.0.4)
@@ -200,7 +188,6 @@ THUMBNAIL* THUMBNAIL -w+   EXIF Profile Thumbnail
       TIM* TIM       r--   PSX TIM
       TTC* TTF       r--   TrueType font collection (Freetype 2.6.0)
       TTF* TTF       r--   TrueType font (Freetype 2.6.0)
-      TXT* TXT       rw+   Text
      UBRL* BRAILLE   -w-   Unicode Text format
     UBRL6* BRAILLE   -w-   Unicode Text format 6dot
       UIL* UIL       -w-   X-Motif UIL table

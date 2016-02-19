@@ -19,12 +19,10 @@ Constant image uniform color
 Caption
 Cineon Image File
 Cisco IP phone image format
-Image Clip Mask
 Raw cyan, magenta, yellow, and black samples
 Raw cyan, magenta, yellow, black, and alpha samples
 Canon Digital Camera Raw Image Format
 Canon Digital Camera Raw Image Format
-Microsoft icon
 DR Halo
 Base64-encoded inline images
 Digital Imaging and Communications in Medicine image
@@ -65,11 +63,7 @@ Identity Hald color lookup table image
 Radiance RGBE image format
 Histogram of the image
 Slow Scan TeleVision
-Hypertext Markup Language and a client-side image map
-Hypertext Markup Language and a client-side image map
 Truevision Targa image
-Microsoft icon
-Microsoft icon
 Phase One Raw Image Format
 The image format and characteristics
 Base64-encoded inline images
@@ -89,7 +83,6 @@ Joint Photographic Experts Group JFIF format (62)
 Joint Photographic Experts Group JFIF format (62)
 JPEG-2000 Code Stream Syntax (2.1.0)
 Joint Photographic Experts Group JFIF format (62)
-JPEG-2000 File Format Syntax (2.1.0)
 The image format and characteristics
 Kodak Digital Camera Raw Image Format
 Kodak Digital Camera Raw Image Format
@@ -99,7 +92,6 @@ Raw MPEG-4 Video
 MAC Paint
 Predefined Magick Image (LOGO, ROSE, etc.); output same as 'H'
 Colormap intensities and indices
-Image Clip Mask
 MATLAB level 5 image format
 MATTE format
 Mamiya Raw Image File
@@ -113,10 +105,8 @@ Magick Persistent Cache image format
 MPEG Video Stream
 MPEG Video Stream
 Sony (Minolta) Raw Image File
-Magick Scripting Language
 ImageMagick's own SVG internal renderer
 MTV Raytracing image format
-Magick Vector Graphics
 Nikon Digital SLR Camera Raw Image File
 Nikon Digital SLR Camera Raw Image File
 Constant image of uniform color
@@ -172,7 +162,6 @@ Raw
 Raw red, green, and blue samples
 Raw red, green, blue, and alpha samples
 Raw red, green, blue, and opacity samples
-LEGO Mindstorms EV3 Robot Graphic Format (black and white)
 Alias/Wavefront image
 Utah Run length encoded image
 Raw Media Format
@@ -191,7 +180,6 @@ Steganographic image
 SUN Rasterfile
 Scalable Vector Graphics (RSVG 2.40.12)
 Compressed Scalable Vector Graphics (RSVG 2.40.12)
-Text
 Truevision Targa image
 EXIF Profile Thumbnail
 Tagged Image File Format (LIBTIFF, Version 4.0.4)
@@ -200,7 +188,6 @@ Tile image with a texture
 PSX TIM
 TrueType font collection (Freetype 2.6.0)
 TrueType font (Freetype 2.6.0)
-Text
 Unicode Text format
 Unicode Text format 6dot
 X-Motif UIL table

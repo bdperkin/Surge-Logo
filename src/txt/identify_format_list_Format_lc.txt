@@ -19,12 +19,10 @@ canvas
 caption
 cin
 cip
-clip
 cmyk
 cmyka
 cr2
 crw
-cur
 cut
 data
 dcm
@@ -65,11 +63,7 @@ hald
 hdr
 histogram
 hrz
-htm
-html
 icb
-ico
-icon
 iiq
 info
 inline
@@ -89,7 +83,6 @@ jpeg
 jpg
 jpm
 jps
-jpt
 json
 k25
 kdc
@@ -99,7 +92,6 @@ m4v
 mac
 magick
 map
-mask
 mat
 matte
 mef
@@ -113,10 +105,8 @@ mpc
 mpeg
 mpg
 mrw
-msl
 msvg
 mtv
-mvg
 nef
 nrw
 null
@@ -172,7 +162,6 @@ raw
 rgb
 rgba
 rgbo
-rgf
 rla
 rle
 rmf
@@ -191,7 +180,6 @@ stegano
 sun
 svg
 svgz
-text
 tga
 thumbnail
 tiff
@@ -200,7 +188,6 @@ tile
 tim
 ttc
 ttf
-txt
 ubrl
 ubrl6
 uil

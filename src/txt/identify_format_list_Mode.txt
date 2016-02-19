@@ -21,10 +21,8 @@ rw-
 -w-
 rw+
 rw+
-rw+
 r--
 r--
-rw-
 r--
 rw+
 r--
@@ -65,10 +63,6 @@ r--
 rw+
 -w-
 rw-
--w-
--w-
-rw-
-rw+
 rw-
 r--
 -w+
@@ -89,7 +83,6 @@ rw-
 rw-
 rw-
 rw-
-rw-
 -w+
 r--
 r--
@@ -100,7 +93,6 @@ r--
 rw-
 rw-
 rw+
-rw+
 -w+
 r--
 rw+
@@ -115,8 +107,6 @@ rw+
 r--
 rw+
 rw+
-rw+
-rw-
 r--
 r--
 rw-
@@ -172,7 +162,6 @@ r--
 rw+
 rw+
 rw+
-rw-
 r--
 r--
 r--
@@ -191,7 +180,6 @@ r--
 rw+
 rw+
 rw+
-rw+
 rw-
 -w+
 rw+
@@ -200,7 +188,6 @@ r--
 r--
 r--
 r--
-rw+
 -w-
 -w-
 -w-
