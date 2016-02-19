@@ -131,7 +131,6 @@ Compressed Scalable Vector Graphics (RSVG 2.40.12)
 Truevision Targa image
 Tagged Image File Format (LIBTIFF, Version 4.0.4)
 Tagged Image File Format (64-bit) (LIBTIFF, Version 4.0.4)
-Text
 Unicode Text format
 Unicode Text format 6dot
 X-Motif UIL table

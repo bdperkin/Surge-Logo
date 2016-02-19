@@ -131,7 +131,6 @@ rw+
 rw-
 rw+
 rw-
-rw+
 -w-
 -w-
 -w-

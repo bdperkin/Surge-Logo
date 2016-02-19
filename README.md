@@ -134,7 +134,6 @@ Raleigh Surge Logo
 * tga -- Truevision Targa image
 * tiff -- Tagged Image File Format (LIBTIFF, Version 4.0.4)
 * tiff64 -- Tagged Image File Format (64-bit) (LIBTIFF, Version 4.0.4)
-* txt -- Text
 * ubrl -- Unicode Text format
 * ubrl6 -- Unicode Text format 6dot
 * uil -- X-Motif UIL table

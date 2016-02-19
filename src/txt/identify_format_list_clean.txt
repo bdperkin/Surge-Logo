@@ -131,7 +131,6 @@ SPARSE-COLOR* TXT       -w+   Sparse Color
       TGA* TGA       rw-   Truevision Targa image
      TIFF* TIFF      rw+   Tagged Image File Format (LIBTIFF, Version 4.0.4)
    TIFF64* TIFF      rw-   Tagged Image File Format (64-bit) (LIBTIFF, Version 4.0.4)
-      TXT* TXT       rw+   Text
      UBRL* BRAILLE   -w-   Unicode Text format
     UBRL6* BRAILLE   -w-   Unicode Text format 6dot
       UIL* UIL       -w-   X-Motif UIL table

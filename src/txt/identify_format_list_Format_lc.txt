@@ -131,7 +131,6 @@ svgz
 tga
 tiff
 tiff64
-txt
 ubrl
 ubrl6
 uil
