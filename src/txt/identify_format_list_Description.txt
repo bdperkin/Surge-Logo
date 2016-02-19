@@ -180,7 +180,6 @@ SUN Rasterfile
 Scalable Vector Graphics (RSVG 2.40.12)
 Compressed Scalable Vector Graphics (RSVG 2.40.12)
 Truevision Targa image
-EXIF Profile Thumbnail
 Tagged Image File Format (LIBTIFF, Version 4.0.4)
 Tagged Image File Format (64-bit) (LIBTIFF, Version 4.0.4)
 Tile image with a texture

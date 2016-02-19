@@ -180,7 +180,6 @@ sun
 svg
 svgz
 tga
-thumbnail
 tiff
 tiff64
 tile

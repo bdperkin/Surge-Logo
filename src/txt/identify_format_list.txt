@@ -202,7 +202,6 @@ SPARSE-COLOR* TXT       -w+   Sparse Color
       SVG  SVG       rw+   Scalable Vector Graphics (RSVG 2.40.12)
      SVGZ  SVG       rw+   Compressed Scalable Vector Graphics (RSVG 2.40.12)
       TGA* TGA       rw-   Truevision Targa image
-THUMBNAIL* THUMBNAIL -w+   EXIF Profile Thumbnail
      TIFF* TIFF      rw+   Tagged Image File Format (LIBTIFF, Version 4.0.4)
    TIFF64* TIFF      rw-   Tagged Image File Format (64-bit) (LIBTIFF, Version 4.0.4)
      TILE* TILE      r--   Tile image with a texture
