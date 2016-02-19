@@ -163,7 +163,6 @@ rgb	Raw red, green, and blue samples
 rgba	Raw red, green, blue, and alpha samples
 rgbo	Raw red, green, blue, and opacity samples
 rla	Alias/Wavefront image
-rle	Utah Run length encoded image
 rmf	Raw Media Format
 rw2	Panasonic Lumix Raw Image
 scr	ZX-Spectrum SCREEN$
