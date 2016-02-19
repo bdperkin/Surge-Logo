@@ -163,7 +163,6 @@ Raw red, green, and blue samples
 Raw red, green, blue, and alpha samples
 Raw red, green, blue, and opacity samples
 Alias/Wavefront image
-Utah Run length encoded image
 Raw Media Format
 Panasonic Lumix Raw Image
 ZX-Spectrum SCREEN$

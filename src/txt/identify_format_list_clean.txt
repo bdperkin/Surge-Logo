@@ -163,7 +163,6 @@ RADIAL-GRADIENT* GRADIENT  r--   Gradual radial passing from one shade to anothe
      RGBA* RGB       rw+   Raw red, green, blue, and alpha samples
      RGBO* RGB       rw+   Raw red, green, blue, and opacity samples
       RLA* RLA       r--   Alias/Wavefront image
-      RLE* RLE       r--   Utah Run length encoded image
       RMF  DNG       r--   Raw Media Format
       RW2  DNG       r--   Panasonic Lumix Raw Image
       SCR* SCR       r--   ZX-Spectrum SCREEN$

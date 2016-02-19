@@ -163,7 +163,6 @@ rgb
 rgba
 rgbo
 rla
-rle
 rmf
 rw2
 scr
