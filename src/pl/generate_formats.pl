@@ -87,10 +87,6 @@ while (<IFL>) {
             die "Did not create file " . $frmtfile . ": $!\n";
         }
 
-        unless ( system("git status | grep 'Surge-Logo-'") ) {
-            die "Extra files found!\n";
-        }
-
         if ( system( "git add " . $frmtdir ) ) {
             die "Cannot git add " . $frmtdir . ": $!\n";
         }
@@ -105,6 +101,11 @@ while (<IFL>) {
                 die "Cannot git commit " . $frmtdir . ": $!\n";
             }
         } ## end unless ( system( "git commit --dry-run -m \""...))
+
+        unless ( system("git status | grep 'Surge-Logo-'") ) {
+            die "Extra files found!\n";
+        }
+
     } ## end foreach my $variant (@variants)
 } ## end while (<IFL>)
 
